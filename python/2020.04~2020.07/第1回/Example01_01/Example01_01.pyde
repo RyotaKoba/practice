@@ -1,0 +1,8 @@
+size(300,300)
+background(0,0,0)
+stroke(255,0,0)
+point(50,150)
+stroke(0,255,0)
+point(150,150)
+stroke(0,0,255)
+point(250,150)

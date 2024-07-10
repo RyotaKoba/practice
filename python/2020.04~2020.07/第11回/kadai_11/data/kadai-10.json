@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Alnitak",
+    "sign": "Orion",
+    "distance": 1262,
+    "x": 227,
+    "y": 215
+  },
+  {
+    "name": "Alnilam",
+    "sign": "Orion",
+    "distance": 1344,
+    "x": 243,
+    "y": 206
+  },
+  {
+    "name": "Saiph",
+    "sign": "Orion",
+    "distance": 720,
+    "x": 200,
+    "y": 316
+  },
+  {
+    "name": "Mintaka",
+    "sign": "Orion",
+    "distance": 1239,
+    "x": 257,
+    "y": 195
+  },
+  {
+    "name": "Bellatrix",
+    "sign": "Orion",
+    "distance": 244.6,
+    "x": 283,
+    "y": 110
+  },
+  {
+    "name": "Rigel",
+    "sign": "Orion",
+    "distance": 864.3,
+    "x": 308,
+    "y": 302
+  },
+  {
+    "name": "Betelgeuse",
+    "sign": "Orion",
+    "distance": 642.5,
+    "x": 186,
+    "y": 91
+  },
+  {
+    "name": "Dubhe",
+    "sign": "Ursa Major",
+    "distance": 123,
+    "x": 186,
+    "y": 280
+  },
+  {
+    "name": "Merak",
+    "sign": "Ursa Major",
+    "distance": 79.75,
+    "x": 161,
+    "y": 243
+  },
+  {
+    "name": "Phecda",
+    "sign": "Ursa Major",
+    "distance": 83.17,
+    "x": 205,
+    "y": 196
+  },
+  {
+    "name": "Megrez",
+    "sign": "Ursa Major",
+    "distance": 80.5,
+    "x": 238,
+    "y": 213
+  },
+  {
+    "name": "Alioth",
+    "sign": "Ursa Major",
+    "distance": 82.52,
+    "x": 277,
+    "y": 195
+  },
+  {
+    "name": "Mizar",
+    "sign": "Ursa Major",
+    "distance": 82.84,
+    "x": 311,
+    "y": 184
+  },
+  {
+    "name": "Alkaid",
+    "sign": "Ursa Major",
+    "distance": 104,
+    "x": 340,
+    "y": 138
+  },
+  {
+    "name": "Antares",
+    "sign": "Scorpius",
+    "distance":550,
+    "x":278,
+    "y":160
+  },
+  {
+    "name": "Acrab",
+    "sign": "Scorpius",
+    "distance":440,
+    "x":325,
+    "y":110
+  },
+  {
+    "name": "Dschubba",
+    "sign": "Scorpius",
+    "distance":490,
+    "x":337,
+    "y":133
+  },
+  {
+    "name": "Larawag",
+    "sign": "Scorpius",
+    "distance":80,
+    "x":243,
+    "y":225
+  },
+  {
+    "name": "Sargas",
+    "sign": "Scorpius",
+    "distance":300,
+    "x":175,
+    "y":310
+  },
+  {
+    "name": "Girtab",
+    "sign": "Scorpius",
+    "distance":480,
+    "x":161,
+    "y":280
+  },
+  {
+    "name": "Shaula",
+    "sign": "Scorpius",
+    "distance":570,
+    "x":172,
+    "y":260
+  },
+  {
+    "name": "Xamidimura,Pipirima",
+    "sign": "Scorpius",
+    "distance":900,
+    "x":242,
+    "y":257
+  },
+  {
+    "name": "Iklil",
+    "sign": "Scorpius",
+    "distance":440,
+    "x":339,
+    "y":187
+  },
+  {
+    "name": "Alniyat",
+    "sign": "Scorpius",
+    "distance":700,
+    "x":295,
+    "y":153
+  },
+  {
+    "name": "Lesath",
+    "sign": "Scorpius",
+    "distance":580,
+    "x":178,
+    "y":261
+  },
+  {
+    "name": "Fuyue",
+    "sign": "Scorpius",
+    "distance":125.8,
+    "x":147,
+    "y":267
+  },
+  {
+    "name": "Fang",
+    "sign": "Scorpius",
+    "distance":590,
+    "x":338,
+    "y":160
+  },
+  {
+    "name": "Graffias",
+    "sign": "Scorpius",
+    "distance":92.5,
+    "x":241,
+    "y":293
+  },
+  {
+    "name": "Eta Scorpii",
+    "sign": "Scorpius",
+    "distance":73.5,
+    "x":266,
+    "y":174
+  },
+  {
+    "name": "Paikauhale",
+    "sign": "Scorpius",
+    "distance":489.2,
+    "x":215,
+    "y":305
+  }
+]
